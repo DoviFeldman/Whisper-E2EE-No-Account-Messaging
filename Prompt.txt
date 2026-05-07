@@ -1,0 +1,12 @@
+can you please make me a super simple with just a very plain UI, basically no UI except for straight text, dark mode and a 
+text box thats just a slightly grayer shade rectangle with rounded corners on the bottom, optimized for mobile but also for use on computer web , 
+with right side text for me and left side text for other person, that i just go to a website like a free vercel url or whatever and theres a button 
+to create temporary chat link, then i just click that and it opens a new  temp chat, and then i share the link to my friend, and then we can chat 
+end to end encrypted, with each message only lasting 48 hours, and i can share files like pictures in there as well and it will display them too, 
+and 48 hours of the last message being sent the chat and link dissapear and are disabled, as to take up no space or anything, 
+but they link back to the original site but in a way that the link doesnt actually exist its just that all links that arent actual chats lead back to original site. 
+with also the ability with a checkbox to add a password to access the chat and the passwords an automatically randomly generated small string of 
+text with the ability to copy paste it just like the link with text next to it that says remember to paste this before copying the chat link so its saved. 
+make it so that i can just easily copy paste the code to github and deploy it to vercel and it will work, scalable to 100 chats at 
+the same or something as long as im in the free tier of vercel still if not then like 20 chats at the same time, make the code extremely simple!
+MOST IMPORTANT: MAKE SURE ITS ENCRYPTED ENOUGH THAT THE SERVER CANNOT SEE THE MESSAGES!!! also dont log anything, this is privacy focused!
