@@ -2,6 +2,10 @@
 
 Temporary, end-to-end encrypted chat. No accounts. No logs. Links expire 48h after last message.
 
+this is the self hostable open source version, you can try it out at this website:
+
+https://whispr-e2ee-temp-messaging.vercel.app/
+
 ## How it works
 
 - Messages are encrypted in the browser with **ECDH + AES-GCM** (Web Crypto API)
